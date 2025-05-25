@@ -13,8 +13,6 @@ main {
   margin: auto;
   padding: 10px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
-<<<<<<< Updated upstream:style.css
-=======
 }
 
 h1 {
@@ -44,5 +42,4 @@ a:hover{
 
 abbr {
   text-decoration: none;
->>>>>>> Stashed changes:estilos/style.css
 }

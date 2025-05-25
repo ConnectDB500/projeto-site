@@ -25,6 +25,10 @@ h2 {
   color: black;
 }
 
+img.lado {
+  float: right;
+}
+
 a {
   text-decoration: none;
   font-weight: bold;
@@ -34,4 +38,8 @@ a {
 a:hover{
   text-decoration: undefined;
   color: lightslategray;
+}
+
+abbr {
+  text-decoration: none;
 }
